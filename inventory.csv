@@ -1,0 +1,20 @@
+ID,Item,Category,Price,Quantity
+101,Rice,Grains,180.0,25
+102,Wheat,Grains,160.0,31
+103,Sugar,Essentials,150.0,30
+104,Salt,Essentials,40.0,50
+105,Cooking Oil & Ghee,Essentials,520.0,15
+106,Milk,Dairy,220.0,10
+107,Yogurt,Dairy,180.0,18
+108,Butter,Dairy,450.0,12
+109,Eggs,Protein,300.0,24
+110,Chicken,Protein,650.0,8
+111,Tea,Beverages,1200.0,10
+112,Coffee,Beverages,950.0,6
+113,Biscuits,Snacks,120.0,35
+114,Chips,Snacks,90.0,40
+115,Soap,Household,85.0,30
+116,Shampoo,Household,320.0,14
+117,Toothpaste,Household,180.0,22
+118,Onion,Vegetables,70.0,45
+119,Potato,Vegetables,60.0,35
